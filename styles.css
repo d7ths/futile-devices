@@ -1,0 +1,56 @@
+body{
+    line-height: 1.5;
+    background-color: #282828;
+    color: #6e8841;
+    cursor: default;
+}
+
+
+h1{
+    font-family: "Victor Mono", monospace;  
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+h2{
+    font-family: "Victor Mono", monospace;  
+    margin-top: 1em;
+
+
+}
+
+li.device {
+    padding-left: 1em;
+    padding-bottom: 1em;
+    text-indent: -1em;
+}
+
+li{
+    list-style: "\00BB  ";   
+    font-family: "Helvetica", "Arial", sans-serif;     
+    color: white;
+}
+
+.futile{
+    padding-left: 100px;
+    padding-top: 6%;
+}
+
+a{
+    color: #6e8841;
+    cursor: default;
+    font-family: "Helvetica", "Arial", sans-serif;    
+}
+
+p{
+    font-family: "Helvetica", "Arial", sans-serif;     
+    color: white;
+    font-size: 1em;
+    padding-right: 1000px
+    
+}
+
+iframe{
+margin-bottom: 0px;
+}
+
